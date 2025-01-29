@@ -1,16 +1,14 @@
-# COURSE-REPO
+# Simple Interest Calculator
 
-This repository contains my personal portfolio project showcasing various courses and projects I have worked on.
+This is a simple interest calculator built in Shell Script.
 
 ## Installation
 
-To clone and set up the repository locally, run the following commands:
+Clone the repository:
+git clone https://github.com/TahaK09/simple-interest-calculator
 
-## Usage
-
-This project is used to demonstrate my learning journey. You can explore different folders and see the projects I've created during my coursework.
+Run the script:
+./simple-interest.sh
 
 ## License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the Apache License 2.0.
